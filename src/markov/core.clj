@@ -48,6 +48,7 @@
 (defn -main
   ([] (-main "lyrics/i-saw-her-standing-there.txt"
              "lyrics/like-a-rolling-stone.txt"
+             "lyrics/road-to-nowhere.txt"
              "lyrics/bittersweet-symphony.txt"))
   ([& files]
      (let [graph (->> files

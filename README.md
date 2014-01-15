@@ -17,14 +17,14 @@ lein run lyrics/file.txt lyrics/file.txt ...
 # Sample Output
 
 ```clojure
-("exchanging all come down the money then you only road i've ever been down"
- "cause it's just 17"
- "like a siamese cat"
- "but i'm here in mine"
- "like a slave to him now i'll take you know what i mean"
- "you got no no"
- "i held each other tight"
- "like a million different people from one that it"
- "at napoleon in it babe"
- "you to the money then you to the finest school all right miss lonely")
+("who carried on a complete unknown"
+ "like a road to the pain in my mold i held her standing there"
+ "exchanging all the melody and silence i'll take you realize"
+ "like a deal"
+ "and say what we're on his shoulder a deal"
+ "but know you how does it feel"
+ "it's just sex and silence i'll take you discover that"
+ "he's not little children"
+ "we're on the steeple and we want"
+ "but they'll make ends meet yeah")
 ```
